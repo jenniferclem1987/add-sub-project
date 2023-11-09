@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.form{
+    margin-top: 20px;
+    margin-left: 29px;
+    width: 50%;
+    background-color: rgb(128, 61, 128);
+    padding: 20px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 11px -13px 146px 0px #0af5c2ee;
+}
+button{
+    background-color: rgb(13, 214, 13);
+    border: none;
+    border-radius: 9px;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 17px;
+}
+ .form label{
+    margin-left: 20px;
+    font-size: 20px;
+    
+
+    
+    
+}
